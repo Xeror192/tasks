@@ -3,4 +3,4 @@
 $array = [];
 
 $array['string'] = 'new string';
-$array['int'] = 'new string';
+$array['int'] = 10;
