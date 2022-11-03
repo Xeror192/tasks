@@ -1,4 +1,4 @@
 <?php
 $world = 'Привет, мир!';
 
-echo $world;
+//echo $world;
