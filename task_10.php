@@ -7,7 +7,7 @@ class Mage {
 
     public function magic()
     {
-
+        echo 'I cast my spell';
     }
 }
 
