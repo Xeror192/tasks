@@ -1,3 +1,3 @@
 <?php
 
-$result = "";
+$result = "Текущая дата в формате UNIX Timestamp: %unix%";
