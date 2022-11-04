@@ -10,3 +10,6 @@ class Mage {
 
     }
 }
+
+$mage = new Mage();
+$mage->magic();
