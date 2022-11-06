@@ -19,4 +19,12 @@ class Warrior
     }
 }
 
-$boost = 10;
+$boost = rand(0, 10);
+
+$warrior = new Warrior();
+
+if ($boost >= 5) {
+    $warrior->attack();
+} else {
+    $warrior->rest();
+}
