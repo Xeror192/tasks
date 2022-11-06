@@ -19,3 +19,7 @@ class Warrior
         echo 'Воин присел восстановить силы';
     }
 }
+
+$warrior = new Warrior();
+
+$warrior->attack();
