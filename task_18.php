@@ -6,4 +6,9 @@ class Person
     {
 
     }
+
+    public function setName()
+    {
+
+    }
 }
