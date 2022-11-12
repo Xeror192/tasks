@@ -6,7 +6,7 @@ class Person
 
     public function getName()
     {
-        return "";
+        return $this->name;
     }
 
     public function setName($name)
