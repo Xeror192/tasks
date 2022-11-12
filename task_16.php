@@ -10,3 +10,5 @@ class Warrior {
 $warrior = new Warrior();
 
 $result = $warrior->getBattleCry();
+
+echo $result;
