@@ -3,7 +3,7 @@
 class Warrior {
     public function getBattleCry()
     {
-        return "";
+        return "Oooooh";
     }
 }
 
