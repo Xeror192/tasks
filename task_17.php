@@ -12,4 +12,8 @@ class Calculator {
     public function multiplication() {
 
     }
+
+    public function division() {
+
+    }
 }
