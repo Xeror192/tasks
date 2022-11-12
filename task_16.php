@@ -3,10 +3,10 @@
 class Warrior {
     public function getBattleCry()
     {
-
+        return "";
     }
 }
 
 $warrior = new Warrior();
 
-$warrior->getBattleCry();
+$result = $warrior->getBattleCry();
