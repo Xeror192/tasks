@@ -14,11 +14,11 @@ class Calculator
 
     public function multiplication($a, $b)
     {
-
+        return $a * $b;
     }
 
     public function division($a, $b)
     {
-
+        return $a / $b;
     }
 }
