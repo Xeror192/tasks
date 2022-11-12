@@ -2,6 +2,8 @@
 
 class Person
 {
+    private $name;
+
     public function getName()
     {
 
