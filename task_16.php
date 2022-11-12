@@ -8,3 +8,5 @@ class Warrior {
 }
 
 $warrior = new Warrior();
+
+$warrior->getBattleCry();
