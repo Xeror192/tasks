@@ -6,5 +6,5 @@ $array = [
 ];
 
 foreach ($array as $key => $value) {
-
+    echo "Ключ массива: $key => $value" . PHP_EOL;
 }
