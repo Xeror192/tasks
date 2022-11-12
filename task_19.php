@@ -1,6 +1,7 @@
 <?php
 
-class User {
+class User
+{
     public function isAdmin()
     {
         return false;
@@ -17,6 +18,10 @@ class User {
     }
 }
 
-class Admin extends User{
-
+class Admin extends User
+{
+    public function getName()
+    {
+        return "Admin";
+    }
 }
