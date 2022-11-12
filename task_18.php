@@ -9,7 +9,7 @@ class Person
 
     }
 
-    public function setName()
+    public function setName($name)
     {
 
     }
