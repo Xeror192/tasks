@@ -4,7 +4,7 @@ class Calculator
 {
     public function summ($a, $b)
     {
-        return 0;
+        return $a + $b;
     }
 
     public function difference($a, $b)
