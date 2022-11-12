@@ -24,4 +24,8 @@ class Admin extends User
     {
         return "Admin";
     }
+    public function isAdmin()
+    {
+        return true;
+    }
 }
