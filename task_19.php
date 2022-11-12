@@ -5,7 +5,13 @@ class User {
     {
         return false;
     }
+
     public function getName()
+    {
+        return "";
+    }
+
+    public function login()
     {
         return "";
     }
