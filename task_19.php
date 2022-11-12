@@ -13,7 +13,7 @@ class User {
 
     public function login()
     {
-        return "";
+        return "{$this->getName()} выполнил вход";
     }
 }
 
