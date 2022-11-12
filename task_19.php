@@ -5,6 +5,10 @@ class User {
     {
         return false;
     }
+    public function getName()
+    {
+        return "";
+    }
 }
 
 class Admin {
