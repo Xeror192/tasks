@@ -5,3 +5,6 @@ $array = [
     "world"
 ];
 
+foreach ($array as $key => $value) {
+
+}
