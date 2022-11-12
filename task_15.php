@@ -1,3 +1,7 @@
 <?php
 
-$array = [];
+$array = [
+    "hello",
+    "world"
+];
+
