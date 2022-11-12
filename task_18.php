@@ -1,5 +1,9 @@
 <?php
 
-class Person {
+class Person
+{
+    public function getName()
+    {
 
+    }
 }
