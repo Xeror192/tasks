@@ -8,7 +8,7 @@ class User {
 
     public function getName()
     {
-        return "";
+        return "User";
     }
 
     public function login()
