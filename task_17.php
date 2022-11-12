@@ -1,19 +1,24 @@
 <?php
 
-class Calculator {
-    public function summ($a, $b) {
+class Calculator
+{
+    public function summ($a, $b)
+    {
 
     }
 
-    public function difference() {
+    public function difference($a, $b)
+    {
 
     }
 
-    public function multiplication() {
+    public function multiplication($a, $b)
+    {
 
     }
 
-    public function division() {
+    public function division($a, $b)
+    {
 
     }
 }
