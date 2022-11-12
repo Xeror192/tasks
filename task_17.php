@@ -1,7 +1,7 @@
 <?php
 
 class Calculator {
-    public function summ() {
+    public function summ($a, $b) {
 
     }
 
