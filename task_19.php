@@ -17,6 +17,6 @@ class User {
     }
 }
 
-class Admin {
+class Admin extends User{
 
 }
