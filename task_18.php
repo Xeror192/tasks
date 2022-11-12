@@ -6,7 +6,7 @@ class Person
 
     public function getName()
     {
-
+        return "";
     }
 
     public function setName($name)
