@@ -6,3 +6,5 @@ class Warrior {
 
     }
 }
+
+$warrior = new Warrior();
